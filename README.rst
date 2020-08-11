@@ -7,7 +7,7 @@ This is a dataset of touching cell images used for "A robust concave point detec
 The image dataset consists of 24 different original 300×300 binary images, which were collected from the CellaVision blog (http://blog.cellavision.com/) and segmented by our earlier work. Each image contains a single touching-cell clump. 
 
 
-.. image:: https://github.com/zxaoyou/Touching-Cell-Dataset/blob/master/example.jpg
+.. image:: https://aqnueducn-my.sharepoint.com/:i:/g/personal/zxaoyou_aqnu_edu_cn/Ee80mYhk9a1Nv1XjAsxkmuQBqqSQE1azeuBVQsDQnJ1ZcA?e=VAQio8
    :alt: An example from the dataset.
    :align: center
 
