@@ -17,7 +17,7 @@ C is a m*2 matrix, where m is the total number of all the concave points in "001
 
 
 
-If you use the dataset in your paper, please acknowledge `the CellaVision blog <http://blog.cellavision.com/>` (http://blog.cellavision.com/) and cite the paper::
+If you use the dataset in your paper, please acknowledge `the CellaVision blog <http://blog.cellavision.com/>` (http://blog.cellavision.com/) and cite the paper:
 
     @article{Zheng2018,
       title={Fast and Robust Segmentation of White Blood Cell Images by Self-supervised Learning},
