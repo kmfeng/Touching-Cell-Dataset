@@ -1,16 +1,12 @@
 # Touching-Cell-Dataset
-=============================
-Touching Cell Image Dataset
-=============================
+
 
 This is a dataset of touching cell images used for "A robust concave point detector based on k-variance of k-sum of chain code", which can be used to evaluate concave points detection methods. 
 
 The image dataset consists of 24 different original 300×300 binary images, which were collected from the CellaVision blog (http://blog.cellavision.com/) and segmented by our earlier work. Each image contains a single touching-cell clump. 
 
 
-.. image:: https://github.com/zxaoyou/Touching-Cell-Dataset/blob/master/example.jpg
-   :alt: An example from the dataset.
-   :align: center
+![image] https://github.com/zxaoyou/Touching-Cell-Dataset/blob/master/example.jpg
 
 
 All the concave points of each image were manually labeled by domain experts and stored in a .mat file. You can read the .mat files using MATLAB load statement as follows:
